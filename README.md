@@ -2,13 +2,13 @@
 # Diamondtron
 Test Diamond Pro 2040u Diamondtron CRT Monitor
 
-Test Setup:
-Windows 98 SE
-nVidia 4600 Ti
-nVida Driver 81.98
-VGA Connection
+Test Setup:  
+Windows 98 SE  
+nVidia 4600 Ti  
+nVida Driver 81.98  
+VGA Connection  
 
-I've ran through each one and test maximum limit of each resolution and got this result below:
+I've ran through each one and test maximum limit of each resolution and got this result below:  
 
 
 |Major Resolution  | Max frame rate Supported  |
@@ -29,3 +29,11 @@ I've ran through each one and test maximum limit of each resolution and got this
 |2048x1536|	75Hz
 
 ![Image of Screenshot](https://github.com/clarityraytube/Diamondtron/blob/48bbbef1f89a514466fedeae4d75e43ef1f646cd/SupportedRes.jpg)
+
+
+![Image of Refresh Rate](https://github.com/clarityraytube/Diamondtron/blob/3a88ac282f4857e972c754599affb90cd0133af1/S__5201926.jpg)
+
+
+![Image of Game](https://github.com/clarityraytube/Diamondtron/blob/3a88ac282f4857e972c754599affb90cd0133af1/S__5201924.jpg)
+Testing out Star Wars Pod Racer at 144Hz!
+
